@@ -1,0 +1,2 @@
+# estruturadedados
+exercicio1
